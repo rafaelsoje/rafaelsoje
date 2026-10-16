@@ -51,7 +51,7 @@ Minha atuação une o desenvolvimento de sistemas corporativos e APIs à adminis
 
 ### 📌 Destaques & Portfólio de Repositórios
 
-* 🔹 **[audiovisual](https://github.com/rafaelsoje/audiovisual):** Sistema de gestão operacional corporativo (PHP 8.2, CodeIgniter 4, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e integração de cobrança Pix via API Asaas.
+* 🔹 **[gestao-operacional-eventos](https://github.com/rafaelsoje/gestao-operacional-eventos):** Sistema de gestão operacional corporativo (PHP 8.2, CodeIgniter 4, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e integração de cobrança Pix via API Asaas.
 * 🔹 **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox):** Caixa de ferramentas modular para Sysadmins e DevSecOps: backups com rotação GFS, validação de integridade por hash SHA-256, sincronização via Rclone, dumps seguros de MySQL e units do systemd.
 * 🔹 **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools):** Utilitários de segurança da informação e reconhecimento de superfície: verificação assíncrona de domínios via RDAP/DNS, auditoria de headers HTTP e PoC de conformidade para CVE-2024-10924.
 * 🔹 **[rclone-sync-manager](https://github.com/rafaelsoje/rclone-sync-manager):** Gerenciador desktop de sincronização de dados multiplataforma (Linux & Windows) em Python e PySide6 com SQLite e Cloud Storage.
