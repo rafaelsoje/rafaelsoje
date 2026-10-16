@@ -33,12 +33,13 @@ Minha atuação une o desenvolvimento de sistemas corporativos e APIs à adminis
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618C?style=flat-square&logo=mysql&logoColor=white)
 
 #### **Infraestrutura, DevOps & Segurança da Informação**
 ![LPIC-1](https://img.shields.io/badge/Certificação-LPIC--1_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_/_Debian-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting_/_Automação-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy_/_WAF-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS_/_WAF_/_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Systemd](https://img.shields.io/badge/Systemd-Services_/_Daemon-grey?style=flat-square&logo=linux&logoColor=white)
@@ -48,10 +49,13 @@ Minha atuação une o desenvolvimento de sistemas corporativos e APIs à adminis
 
 ---
 
-### 📌 Destaques & Projetos em Aberto
+### 📌 Destaques & Portfólio de Repositórios
 
-* 🔹 **[rclone-sync-manager](https://github.com/rafaelsoje/rclone-sync-manager):** Gerenciador desktop de sincronização de dados multiplataforma (Linux & Windows) com suporte a backups automatizados e Cloud Storage.
-* 🔹 **[rafaelsoje.com](https://rafaelsoje.com):** Aplicação Next.js corporativa em produção, com telemetria first-party, WAF Cloudflare e esteira de deploy atômico com zero-downtime.
+* 🔹 **[audiovisual](https://github.com/rafaelsoje/audiovisual):** Sistema de gestão operacional corporativo (PHP 8.2, CodeIgniter 4, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e integração de cobrança Pix via API Asaas.
+* 🔹 **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox):** Caixa de ferramentas modular para Sysadmins e DevSecOps: backups com rotação GFS, validação de integridade por hash SHA-256, sincronização via Rclone, dumps seguros de MySQL e units do systemd.
+* 🔹 **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools):** Utilitários de segurança da informação e reconhecimento de superfície: verificação assíncrona de domínios via RDAP/DNS, auditoria de headers HTTP e PoC de conformidade para CVE-2024-10924.
+* 🔹 **[rclone-sync-manager](https://github.com/rafaelsoje/rclone-sync-manager):** Gerenciador desktop de sincronização de dados multiplataforma (Linux & Windows) em Python e PySide6 com SQLite e Cloud Storage.
+* 🔹 **[rafaelsoje.com](https://github.com/rafaelsoje/rafaelsoje.com):** Aplicação oficial em Next.js 15, TypeScript e Tailwind CSS com esteira de deploy contínuo, telemetria e proxy reverso Nginx.
 
 ---
 
