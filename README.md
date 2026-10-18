@@ -13,23 +13,14 @@
 
 Bacharel em **Ciência da Computação** (Niterói/RJ), pós-graduado em **Segurança da Informação** e com certificação internacional **LPIC-1 (Linux Professional Institute)**.
 
-Atuo na convergência entre o desenvolvimento de aplicações escaláveis e a segurança e alta disponibilidade de infraestruturas Linux em produção:
+Minha atuação é focada na engenharia de sistemas corporativos de alta confiabilidade, automação de infraestrutura em nuvem privada e segurança defensiva perimetral:
 
-* 🌐 **Plataforma em Produção:** Engenharia web moderna com Next.js 15, WAF perimetral na Cloudflare, Nginx e telemetria: [rafaelsoje.com](https://rafaelsoje.com)
-* 📜 **Validação Profissional Comprovada:** Respaldado por **3 cartas formais de recomendação assinadas por diretores operacionais e gestores**:
-  * **GUI Segurança em Eventos / GUI Vigilância** *(Direção Operacional)* — Sistemas de gestão operacional e contingência.
+* 🚀 **Ambiente em Produção:** Plataforma corporativa oficial com telemetria, Nginx e proteção de borda Cloudflare WAF: [rafaelsoje.com](https://rafaelsoje.com)
+* 📜 **Validação Profissional Comprovada:** Histórico respaldado por **3 cartas formais de recomendação assinadas por diretores operacionais e gestores**:
+  * **GUI Segurança em Eventos / GUI Vigilância** *(Direção Operacional)* — Sistemas de gestão operacional, telemetria de geradores e contingência.
   * **Munhoz Editoria** *(Bibliotecária e Documentarista CRB 7-7205)* — ERP editorial completo em PHP/MySQL.
   * **GMV Editora** *(Gestão Executiva)* — Ferramentas de automação e engenharia de dados textuais com Python e Regex.
-  * *(Disponíveis para consulta pública em [rafaelsoje.com#recomendacoes](https://rafaelsoje.com#recomendacoes))*
-
----
-
-### 📊 Estatísticas & Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsoje&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoje&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages" />
-</p>
+  * *(Cartas disponíveis para consulta pública em [rafaelsoje.com#recomendacoes](https://rafaelsoje.com#recomendacoes))*
 
 ---
 
