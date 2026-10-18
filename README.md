@@ -11,7 +11,7 @@
 
 ### 🛡️ Engenheiro de Sistemas Linux | DevSecOps | Desenvolvedor Full Stack
 
-Bacharel em **Ciência da Computação** (Niterói/RJ), pós-graduado em **Segurança da Informação** e com certificação internacional **LPIC-1 (Linux Professional Institute)**.
+Bacharel em **Ciência da Computação** (Niterói/RJ), pós-graduado em **Segurança da Informação**.
 
 Minha atuação é focada na engenharia de sistemas corporativos de alta confiabilidade, automação de infraestrutura em nuvem privada e segurança defensiva perimetral:
 
@@ -38,7 +38,6 @@ Minha atuação é focada na engenharia de sistemas corporativos de alta confiab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### **Infraestrutura, DevSecOps & Segurança Defensiva**
-![LPIC-1](https://img.shields.io/badge/Certificação-LPIC--1_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_/_Debian-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting_/_Automação-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy_/_WAF-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -53,7 +52,7 @@ Minha atuação é focada na engenharia de sistemas corporativos de alta confiab
 ### 📌 Repositórios em Destaque
 
 * 🔹 **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
-  Caixa de ferramentas modular de administração Linux (LPIC-1) e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB.
+  Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB.
   
 * 🔹 **[gestao-operacional-eventos](https://github.com/rafaelsoje/gestao-operacional-eventos)**  
   Plataforma corporativa de gestão operacional (PHP 8.2, CodeIgniter 4, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e faturamento automatizado via Pix (API Asaas).
