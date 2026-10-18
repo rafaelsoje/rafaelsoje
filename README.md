@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael Soje 👋
+# Rafael Soje
 
 <p align="left">
   <a href="https://rafaelsoje.com"><img src="https://img.shields.io/badge/Portfólio-rafaelsoje.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
@@ -9,28 +9,29 @@
 
 ---
 
-### 🛡️ Engenheiro de Sistemas Linux | DevSecOps | Desenvolvedor Full Stack
+### Engenheiro de Sistemas Linux | DevSecOps | Full Stack & Cloud
 
 Bacharel em **Ciência da Computação** e pós-graduado em **Segurança da Informação**.
 
 Minha atuação é focada em projetar e implementar sistemas corporativos robustos, automação de infraestruturas Linux em alta disponibilidade e segurança defensiva perimetral:
 
-* ⚙️ **Engenharia de Infraestrutura & Linux:** Administração avançada de servidores e VPS, automação de rotinas em Shell Script, orquestração via Systemd e contingência de backups com integridade criptográfica SHA-256.
-* 🛡️ **Segurança Defensiva & DevSecOps:** Hardening de servidores Linux, sistemas de detecção de intrusão no host (HIDS), mitigação ativa de abusos e integração de regras de borda (Cloudflare WAF + Fail2ban + ModSecurity).
-* 💻 **Desenvolvimento de Aplicações:** Construção de sistemas corporativos, painéis operacionais com métricas em tempo real, APIs seguras e plataformas resilientes utilizando PHP, Python e TypeScript.
-* 🚀 **Plataforma Oficial:** [rafaelsoje.com](https://rafaelsoje.com)
+* **Engenharia de Infraestrutura & Linux:** Administração avançada de servidores e VPS, automação de rotinas em Shell Script, orquestração via Systemd e contingência de backups com integridade criptográfica SHA-256.
+* **Segurança Defensiva & DevSecOps:** Hardening de servidores Linux, sistemas de detecção de intrusão no host (HIDS), mitigação ativa de abusos e integração de regras de borda (Cloudflare WAF + Fail2ban + ModSecurity).
+* **Desenvolvimento de Aplicações:** Construção de sistemas corporativos, painéis operacionais com métricas em tempo real, APIs seguras e plataformas resilientes utilizando TypeScript, Python e PHP.
+* **Plataforma Oficial:** [rafaelsoje.com](https://rafaelsoje.com)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 #### **Desenvolvimento & Back-End**
-![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618C?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -46,26 +47,32 @@ Minha atuação é focada em projetar e implementar sistemas corporativos robust
 
 ---
 
-### 📌 Repositórios em Destaque
+### Repositórios em Destaque
 
-* 🔹 **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
+* **[gabarita](https://github.com/rafaelsoje/gabarita)**  
+  Plataforma SaaS para preparação de concursos públicos com planejamento de estudos, simulados, monitor de editais e IA híbrida (OpenAI + Ollama local) em Next.js 15, PostgreSQL e Prisma.
+
+* **[nexus](https://github.com/rafaelsoje/nexus)**  
+  Monorepo API-first para marketplace de freelancers de eventos com NestJS, Next.js, arquitetura de split financeiro, retenção de plataforma e testes E2E com Playwright.
+
+* **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
   Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB.
-  
-* 🔹 **[gestao-operacional-eventos](https://github.com/rafaelsoje/gestao-operacional-eventos)**  
-  Plataforma corporativa de gestão operacional (PHP, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e faturamento automatizado via Pix (API Asaas).
 
-* 🔹 **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
-  Ferramentas de segurança da informação em Python: reconhecimento assíncrono de superfície de ataque via RDAP/DNS, auditoria defensiva de cabeçalhos HTTP e PoC de laboratório para CVE-2024-10924.
+* **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
+  Ferramentas de segurança da informação em Python: reconhecimento assíncrono de superfície de ataque via RDAP/DNS, auditoria defensiva de cabeçalhos HTTP e validação de conformidade.
 
-* 🔹 **[rafaelsoje.com](https://github.com/rafaelsoje/rafaelsoje.com)**  
+* **[rclone-sync-manager](https://github.com/rafaelsoje/rclone-sync-manager)**  
+  Aplicativo desktop de sincronização multiplataforma (Linux & Windows) em Python e PySide6 com SQLite e integração com provedores de Cloud Storage via Rclone.
+
+* **[gestao-operacional-eventos](https://github.com/rafaelsoje/gestao-operacional-eventos)**  
+  Plataforma corporativa de gestão operacional de eventos em PHP e MySQL, cobrindo planejamento, telemetria de geradores, controle de insumos e faturamento.
+
+* **[rafaelsoje.com](https://github.com/rafaelsoje/rafaelsoje.com)**  
   Código-fonte e arquitetura da plataforma corporativa oficial em Next.js 15, TypeScript e Tailwind CSS com deploy atômico contínuo e telemetria first-party.
-
-* 🔹 **[rclone-sync-manager](https://github.com/rafaelsoje/rclone-sync-manager)**  
-  Aplicativo desktop de sincronização multiplataforma (Linux & Windows) em Python e PySide6 com SQLite e integração com provedores de Cloud Storage.
 
 ---
 
 <p align="center">
   <sub>Construindo sistemas com foco em alta disponibilidade, código limpo e segurança rigorosa.</sub><br>
-  <b><a href="https://rafaelsoje.com">rafaelsoje.com</a> • Niterói, Rio de Janeiro</b>
+  <b><a href="https://rafaelsoje.com">rafaelsoje.com</a> • Rio de Janeiro, Brasil</b>
 </p>
