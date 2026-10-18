@@ -29,7 +29,6 @@ Minha atuação é focada na engenharia de sistemas corporativos de alta confiab
 #### **Desenvolvimento Web & Back-End**
 ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,7 +54,7 @@ Minha atuação é focada na engenharia de sistemas corporativos de alta confiab
   Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB.
   
 * 🔹 **[gestao-operacional-eventos](https://github.com/rafaelsoje/gestao-operacional-eventos)**  
-  Plataforma corporativa de gestão operacional (PHP 8.2, CodeIgniter 4, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e faturamento automatizado via Pix (API Asaas).
+  Plataforma corporativa de gestão operacional (PHP, Docker e MySQL) com KPIs, telemetria de geradores, controle de insumos e faturamento automatizado via Pix (API Asaas).
 
 * 🔹 **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
   Ferramentas de segurança da informação em Python: reconhecimento assíncrono de superfície de ataque via RDAP/DNS, auditoria defensiva de cabeçalhos HTTP e PoC de laboratório para CVE-2024-10924.
