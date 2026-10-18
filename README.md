@@ -11,32 +11,30 @@
 
 ### 🛡️ Engenheiro de Sistemas Linux | DevSecOps | Desenvolvedor Full Stack
 
-Bacharel em **Ciência da Computação** (Niterói/RJ), pós-graduado em **Segurança da Informação**.
+Bacharel em **Ciência da Computação** e pós-graduado em **Segurança da Informação**.
 
-Minha atuação é focada na engenharia de sistemas corporativos de alta confiabilidade, automação de infraestrutura em nuvem privada e segurança defensiva perimetral:
+Minha atuação é focada em projetar e implementar sistemas corporativos robustos, automação de infraestruturas Linux em alta disponibilidade e segurança defensiva perimetral:
 
-* 🚀 **Ambiente em Produção:** Plataforma corporativa oficial com telemetria, Nginx e proteção de borda Cloudflare WAF: [rafaelsoje.com](https://rafaelsoje.com)
-* 📜 **Validação Profissional Comprovada:** Histórico respaldado por **3 cartas formais de recomendação assinadas por diretores operacionais e gestores**:
-  * **GUI Segurança em Eventos / GUI Vigilância** *(Direção Operacional)* — Sistemas de gestão operacional, telemetria de geradores e contingência.
-  * **Munhoz Editoria** *(Bibliotecária e Documentarista CRB 7-7205)* — ERP editorial completo em PHP/MySQL.
-  * **GMV Editora** *(Gestão Executiva)* — Ferramentas de automação e engenharia de dados textuais com Python e Regex.
-  * *(Cartas disponíveis para consulta pública em [rafaelsoje.com#recomendacoes](https://rafaelsoje.com#recomendacoes))*
+* ⚙️ **Engenharia de Infraestrutura & Linux:** Administração avançada de servidores e VPS, automação de rotinas em Shell Script, orquestração via Systemd e contingência de backups com integridade criptográfica SHA-256.
+* 🛡️ **Segurança Defensiva & DevSecOps:** Hardening de servidores Linux, sistemas de detecção de intrusão no host (HIDS), mitigação ativa de abusos e integração de regras de borda (Cloudflare WAF + Fail2ban + ModSecurity).
+* 💻 **Desenvolvimento de Aplicações:** Construção de sistemas corporativos, painéis operacionais com métricas em tempo real, APIs seguras e plataformas resilientes utilizando PHP, Python e TypeScript.
+* 🚀 **Plataforma Oficial:** [rafaelsoje.com](https://rafaelsoje.com)
 
 ---
 
-### 🛠️ Stack Tecnológica & Competências
+### 🛠️ Tecnologias & Ferramentas
 
-#### **Desenvolvimento Web & Back-End**
+#### **Desenvolvimento & Back-End**
 ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618C?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### **Infraestrutura, DevSecOps & Segurança Defensiva**
+#### **Infraestrutura, DevSecOps & Segurança**
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_/_Debian-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting_/_Automação-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy_/_WAF-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -68,6 +66,6 @@ Minha atuação é focada na engenharia de sistemas corporativos de alta confiab
 ---
 
 <p align="center">
-  <sub>Desenvolvido com foco em alta disponibilidade, código limpo e segurança rigorosa.</sub><br>
+  <sub>Construindo sistemas com foco em alta disponibilidade, código limpo e segurança rigorosa.</sub><br>
   <b><a href="https://rafaelsoje.com">rafaelsoje.com</a> • Niterói, Rio de Janeiro</b>
 </p>
