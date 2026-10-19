@@ -22,6 +22,21 @@ Minha atuação é focada em projetar e implementar sistemas corporativos robust
 
 ---
 
+### Contribuicoes Open Source
+
+Contribuicoes tecnicas em projetos globais de seguranca da infraestrutura e sistemas Linux:
+
+* **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Auditoria de Seguranca e Hardening Linux (+16.500 estrelas)  
+  [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Suporte a deteccao de configuracao do Chrony em `/usr/etc` e diretorios `conf.d`, resolvendo falso positivo na verificacao de NTP em distribuicoes modernas (Issue #1787).
+
+* **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automacao de CIS Benchmarks em Ansible (+5.500 estrelas)  
+  [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementacao de algoritmo hibrido pos-quantico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociacao de chaves KEX criptograficas (Issue #925).
+
+* **[CrowdSec Hub](https://github.com/crowdsecurity/hub)** — IPS Colaborativo, WAF e Inteligencia de Ameacas (+10.000 estrelas)  
+  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e deteccao de ataques de forca bruta para PostgreSQL via connection pooler PgBouncer com suporte a autenticacao por senha e SASL (Issue #1881).
+
+---
+
 ### Tecnologias & Ferramentas
 
 #### **Desenvolvimento & Back-End**
