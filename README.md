@@ -22,18 +22,41 @@ Minha atuação é focada em projetar e implementar sistemas corporativos robust
 
 ---
 
-### Contribuicoes Open Source
+### Contribuições Open Source
 
-Contribuicoes tecnicas em projetos globais de seguranca da infraestrutura e sistemas Linux:
+Contribuições técnicas aceitas e em análise nos principais ecossistemas globais de segurança da informação, auditoria e infraestrutura Linux:
 
-* **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Auditoria de Seguranca e Hardening Linux (+16.500 estrelas)  
-  [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Suporte a deteccao de configuracao do Chrony em `/usr/etc` e diretorios `conf.d`, resolvendo falso positivo na verificacao de NTP em distribuicoes modernas (Issue #1787).
+#### Segurança Defensiva, Hardening & SIEM
+* **[SigmaHQ](https://github.com/SigmaHQ/sigma)** — Padrão Global de Regras de Detecção de Ameaças (+11.300 estrelas)  
+  [Pull Request #6542](https://github.com/SigmaHQ/sigma/pull/6542): Regra de detecção para abuso do utilitário `tar` na execução de comandos e quebra de shells (`--checkpoint-action=exec` e `--to-command`), cobrindo técnicas GTFOBins e injeção de wildcards (MITRE ATT&CK T1059.004 e T1548.003).
 
-* **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automacao de CIS Benchmarks em Ansible (+5.500 estrelas)  
-  [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementacao de algoritmo hibrido pos-quantico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociacao de chaves KEX criptograficas (Issue #925).
+* **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Auditoria de Conformidade e Hardening Linux (+16.500 estrelas)  
+  [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Suporte a arquivos de configuração do Chrony em `/usr/etc` e diretórios `conf.d`, eliminando falsos positivos de NTP em distribuições Linux modernas (Issue #1787).  
+  [Pull Request #1805](https://github.com/CISOfy/lynis/pull/1805): Correção na lógica de auditoria de agendadores (`SCHD-7704`), garantindo validação precisa de arquivos em `cron.d` e permissões de crontab (Issue #1798).
 
-* **[CrowdSec Hub](https://github.com/crowdsecurity/hub)** — IPS Colaborativo, WAF e Inteligencia de Ameacas (+10.000 estrelas)  
-  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e deteccao de ataques de forca bruta para PostgreSQL via connection pooler PgBouncer com suporte a autenticacao por senha e SASL (Issue #1881).
+* **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
+  [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).  
+  [Pull Request #4259](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia (Issue #4005).
+
+* **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automação de CIS Benchmarks em Ansible (+5.500 estrelas)  
+  [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementação de algoritmo híbrido pós-quântico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociação criptográfica KEX (Issue #925).
+
+* **[CrowdSec Hub](https://github.com/crowdsecurity/hub)** — IPS Colaborativo e Inteligência de Ameaças (+10.000 estrelas)  
+  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e cenário de detecção de ataques de força bruta no PostgreSQL através do pooler PgBouncer com suporte a autenticação SASL (Issue #1881).
+
+#### Segurança Ofensiva & Análise de Superfície de Ataque
+* **[ProjectDiscovery Nuclei-Templates](https://github.com/projectdiscovery/nuclei-templates)** — Engenharia de Detecção de Vulnerabilidades e Ativos (+18.500 estrelas)  
+  [Pull Request #17604](https://github.com/projectdiscovery/nuclei-templates/pull/17604): Template oficial de detecção do painel e endpoints do gerenciador de credenciais Infisical via DSL matchers de alta precisão.  
+  [Pull Request #17606](https://github.com/projectdiscovery/nuclei-templates/pull/17606): Template oficial para identificação de painéis PaaS Coolify expostos, integrado com consultas para Shodan e FOFA.
+
+#### Documentação Canônica de Sistemas & Dados Abertos
+* **[tldr-pages](https://github.com/tldr-pages/tldr)** — Documentação Prática de Linha de Comando (+50.000 estrelas)  
+  [Pull Request #24928](https://github.com/tldr-pages/tldr/pull/24928): Tradução e localização técnica das rotinas de auditoria do `lynis`.  
+  [Pull Request #24929](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
+  [Pull Request #24930](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.
+
+* **[BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** (+8.500 estrelas) & **[Querido Diário / OKFN](https://github.com/okfn-brasil/querido-diario)** (+2.000 estrelas)  
+  Melhorias de resiliência em baterias de testes ([PR #938](https://github.com/BrasilAPI/BrasilAPI/pull/938), [PR #939](https://github.com/BrasilAPI/BrasilAPI/pull/939)) e engenharia de spiders de coleta de dados governamentais ([PR #1590](https://github.com/okfn-brasil/querido-diario/pull/1590), [PR #1591](https://github.com/okfn-brasil/querido-diario/pull/1591)).
 
 ---
 
