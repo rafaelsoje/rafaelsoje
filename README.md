@@ -29,7 +29,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 
 #### Segurança Defensiva, Hardening & SIEM
 * **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
-  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro oficial e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia, com suporte dual a logs de arquivo e JSON estruturado (resolvendo a Issue histórica #4005).  
+  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259) & [Pull Request #4262](https://github.com/fail2ban/fail2ban/pull/4262): Novo filtro oficial e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia, com suporte a logs de arquivo, JSON estruturado e `systemd-journal` (resolvendo a Issue histórica #4005).  
   [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).
 
 * **[SigmaHQ](https://github.com/SigmaHQ/sigma)** — Padrão Global de Regras de Detecção de Ameaças (+11.300 estrelas)  
