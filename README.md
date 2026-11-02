@@ -36,7 +36,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 
 * **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
   [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).  
-  [Pull Request #4259](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia (Issue #4005).
+  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia (Issue #4005).
 
 * **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automação de CIS Benchmarks em Ansible (+5.500 estrelas)  
   [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementação de algoritmo híbrido pós-quântico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociação criptográfica KEX (Issue #925).
