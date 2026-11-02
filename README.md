@@ -46,14 +46,15 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 
 #### Segurança Ofensiva & Análise de Superfície de Ataque
 * **[ProjectDiscovery Nuclei-Templates](https://github.com/projectdiscovery/nuclei-templates)** — Engenharia de Detecção de Vulnerabilidades e Ativos (+18.500 estrelas)  
-  [Pull Request #17604](https://github.com/projectdiscovery/nuclei-templates/pull/17604): Template oficial de detecção do painel e endpoints do gerenciador de credenciais Infisical via DSL matchers de alta precisão.  
+  [Pull Request #17604 (Merged)](https://github.com/projectdiscovery/nuclei-templates/pull/17604): Template oficial de detecção do painel e endpoints do gerenciador de credenciais Infisical via DSL matchers de alta precisão (integrado à base de regras oficial).  
   [Pull Request #17606](https://github.com/projectdiscovery/nuclei-templates/pull/17606): Template oficial para identificação de painéis PaaS Coolify expostos, integrado com consultas para Shodan e FOFA.
 
 #### Documentação Canônica de Sistemas & Dados Abertos
 * **[tldr-pages](https://github.com/tldr-pages/tldr)** — Documentação Prática de Linha de Comando (+50.000 estrelas)  
-  [Pull Request #24928](https://github.com/tldr-pages/tldr/pull/24928): Tradução e localização técnica das rotinas de auditoria do `lynis`.  
-  [Pull Request #24929](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
-  [Pull Request #24930](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.
+  [Pull Request #24928 (Merged)](https://github.com/tldr-pages/tldr/pull/24928): Tradução e localização técnica das rotinas de auditoria do `lynis`.  
+  [Pull Request #24929 (Merged)](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
+  [Pull Request #24930 (Merged)](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.  
+  [Pull Request #24941 (Review Needed)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês.
 
 * **[BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** (+8.500 estrelas) & **[Querido Diário / OKFN](https://github.com/okfn-brasil/querido-diario)** (+2.000 estrelas)  
   Melhorias de resiliência em baterias de testes ([PR #938](https://github.com/BrasilAPI/BrasilAPI/pull/938), [PR #939](https://github.com/BrasilAPI/BrasilAPI/pull/939)) e engenharia de spiders de coleta de dados governamentais ([PR #1590](https://github.com/okfn-brasil/querido-diario/pull/1590), [PR #1591](https://github.com/okfn-brasil/querido-diario/pull/1591)).
