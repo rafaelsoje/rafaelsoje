@@ -4,6 +4,7 @@
   <a href="https://rafaelsoje.com"><img src="https://img.shields.io/badge/Portfólio-rafaelsoje.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://linkedin.com/in/rafaelsoje"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Soje-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contato@rafaelsoje.com"><img src="https://img.shields.io/badge/E--mail-contato@rafaelsoje.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open_Source-Upstream_Contributor-0ea5e9?style=for-the-badge" alt="Upstream Contributor" />
   <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-success?style=for-the-badge" alt="Disponível" />
 </p>
 
@@ -27,16 +28,16 @@ Minha atuação é focada em projetar e implementar sistemas corporativos robust
 Contribuições técnicas aceitas e em análise nos principais ecossistemas globais de segurança da informação, auditoria e infraestrutura Linux:
 
 #### Segurança Defensiva, Hardening & SIEM
+* **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
+  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro oficial e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia, com suporte dual a logs de arquivo e JSON estruturado (resolvendo a Issue histórica #4005).  
+  [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).
+
 * **[SigmaHQ](https://github.com/SigmaHQ/sigma)** — Padrão Global de Regras de Detecção de Ameaças (+11.300 estrelas)  
   [Pull Request #6542](https://github.com/SigmaHQ/sigma/pull/6542): Regra de detecção para abuso do utilitário `tar` na execução de comandos e quebra de shells (`--checkpoint-action=exec` e `--to-command`), cobrindo técnicas GTFOBins e injeção de wildcards (MITRE ATT&CK T1059.004 e T1548.003).
 
 * **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Auditoria de Conformidade e Hardening Linux (+16.500 estrelas)  
   [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Suporte a arquivos de configuração do Chrony em `/usr/etc` e diretórios `conf.d`, eliminando falsos positivos de NTP em distribuições Linux modernas (Issue #1787).  
   [Pull Request #1805](https://github.com/CISOfy/lynis/pull/1805): Correção na lógica de auditoria de agendadores (`SCHD-7704`), garantindo validação precisa de arquivos em `cron.d` e permissões de crontab (Issue #1798).
-
-* **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
-  [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).  
-  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259): Novo filtro e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia (Issue #4005).
 
 * **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automação de CIS Benchmarks em Ansible (+5.500 estrelas)  
   [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementação de algoritmo híbrido pós-quântico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociação criptográfica KEX (Issue #925).
