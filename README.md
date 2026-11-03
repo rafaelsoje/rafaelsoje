@@ -37,13 +37,19 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 
 * **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Auditoria de Conformidade e Hardening Linux (+16.500 estrelas)  
   [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Suporte a arquivos de configuração do Chrony em `/usr/etc` e diretórios `conf.d`, eliminando falsos positivos de NTP em distribuições Linux modernas (Issue #1787).  
-  [Pull Request #1805](https://github.com/CISOfy/lynis/pull/1805): Correção na lógica de auditoria de agendadores (`SCHD-7704`), garantindo validação precisa de arquivos em `cron.d` e permissões de crontab (Issue #1798).
+  [Pull Request #1805](https://github.com/CISOfy/lynis/pull/1805): Correção na lógica de auditoria de agendadores (`SCHD-7704`), garantindo validação precisa de arquivos em `cron.d` e permissões de crontab (Issue #1798).  
+  [Pull Request #1806](https://github.com/CISOfy/lynis/pull/1806): Detecção de sistema operacional para Ultramarine Linux na rotina de descoberta de SO (Issue #1804).  
+  [Pull Request #1807](https://github.com/CISOfy/lynis/pull/1807): Correção no teste `FILE-6430` de módulos em blacklist, resolvendo expansão de glob no shell e busca em `/usr/lib/modprobe.d/` (Issue #1794).
 
 * **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Automação de CIS Benchmarks em Ansible (+5.500 estrelas)  
   [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementação de algoritmo híbrido pós-quântico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociação criptográfica KEX (Issue #925).
 
 * **[CrowdSec Hub](https://github.com/crowdsecurity/hub)** — IPS Colaborativo e Inteligência de Ameaças (+10.000 estrelas)  
-  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e cenário de detecção de ataques de força bruta no PostgreSQL através do pooler PgBouncer com suporte a autenticação SASL (Issue #1881).
+  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e cenário de detecção de ataques de força bruta no PostgreSQL através do pooler PgBouncer com suporte a autenticação SASL (Issue #1881).  
+  [Pull Request #1975](https://github.com/crowdsecurity/hub/pull/1975): Suporte a URLs de backend com esquema `h2c://` (HTTP/2 Cleartext) no parser oficial de logs do Traefik (Issue #1966).
+
+* **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)** — Ferramenta de Informações de Sistema em Alta Performance (+25.200 estrelas)  
+  [Pull Request #2702](https://github.com/fastfetch-cli/fastfetch/pull/2702): Adição do logotipo ASCII e identificação oficial da distribuição Visnux Linux (Issue #2700).
 
 #### Segurança Ofensiva & Análise de Superfície de Ataque
 * **[ProjectDiscovery Nuclei-Templates](https://github.com/projectdiscovery/nuclei-templates)** — Engenharia de Detecção de Vulnerabilidades e Ativos (+18.500 estrelas)  
@@ -55,7 +61,9 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   [Pull Request #24928 (Merged)](https://github.com/tldr-pages/tldr/pull/24928): Tradução e localização técnica das rotinas de auditoria do `lynis`.  
   [Pull Request #24929 (Merged)](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
   [Pull Request #24930 (Merged)](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.  
-  [Pull Request #24941 (Approved - Aguardando 2ª Revisão)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês (aprovado por kbdharun).
+  [Pull Request #24941 (Approved - Aguardando 2ª Revisão)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês (aprovado por kbdharun).  
+  [Pull Request #24993](https://github.com/tldr-pages/tldr/pull/24993) & [Pull Request #24994](https://github.com/tldr-pages/tldr/pull/24994): Documentação canônica em português dos utilitários de VPN `wg` e `wg-quick` (WireGuard).  
+  [Pull Request #24996](https://github.com/tldr-pages/tldr/pull/24996) & [Pull Request #24997](https://github.com/tldr-pages/tldr/pull/24997): Documentação canônica do sincronizador de nuvem `rclone` e do subsistema de auditoria do kernel Linux `auditctl`.
 
 * **[BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** (+8.500 estrelas) & **[Querido Diário / OKFN](https://github.com/okfn-brasil/querido-diario)** (+2.000 estrelas)  
   Melhorias de resiliência em baterias de testes ([PR #938](https://github.com/BrasilAPI/BrasilAPI/pull/938), [PR #939](https://github.com/BrasilAPI/BrasilAPI/pull/939)) e engenharia de spiders de coleta de dados governamentais ([PR #1590](https://github.com/okfn-brasil/querido-diario/pull/1590), [PR #1591](https://github.com/okfn-brasil/querido-diario/pull/1591)).
