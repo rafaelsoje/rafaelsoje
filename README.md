@@ -104,7 +104,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   Monorepo API-first para marketplace de freelancers de eventos com NestJS, Next.js, arquitetura de split financeiro, retenção de plataforma e testes E2E com Playwright.
 
 * **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
-  Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB.
+  Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB. Selecionado para o Corpus Hub oficial do XERJ (+18k estrelas) como código canônico de referência para agentes de IA.
 
 * **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
   Ferramentas de segurança da informação em Python: reconhecimento assíncrono de superfície de ataque via RDAP/DNS, auditoria defensiva de cabeçalhos HTTP e validação de conformidade.
