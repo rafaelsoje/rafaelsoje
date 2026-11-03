@@ -29,7 +29,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 
 #### Segurança Defensiva, Hardening & SIEM
 * **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Sistema de Prevenção de Intrusão (IPS) (+4.500 estrelas)  
-  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259) & [Pull Request #4262](https://github.com/fail2ban/fail2ban/pull/4262): Novo filtro oficial e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia, com suporte a logs de arquivo, JSON estruturado e `systemd-journal` (resolvendo a Issue histórica #4005).  
+  [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259) & [Pull Request #4262 (Merged)](https://github.com/fail2ban/fail2ban/pull/4262): Novo filtro oficial e jail para mitigação automatizada de ataques de força bruta no provedor de autenticação Authelia, com suporte a logs de arquivo, JSON estruturado e `systemd-journal` (resolvendo a Issue histórica #4005).  
   [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Suporte à captura de logs no formato journal do systemd para o filtro `nginx-bad-request` (Issue #3732).
 
 * **[SigmaHQ](https://github.com/SigmaHQ/sigma)** — Padrão Global de Regras de Detecção de Ameaças (+11.300 estrelas)  
@@ -62,8 +62,8 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   [Pull Request #24929 (Merged)](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
   [Pull Request #24930 (Merged)](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.  
   [Pull Request #24941 (Merged)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês (incorporado à base oficial).  
-  [Pull Request #24993](https://github.com/tldr-pages/tldr/pull/24993) & [Pull Request #24994](https://github.com/tldr-pages/tldr/pull/24994): Documentação canônica em português dos utilitários de VPN `wg` e `wg-quick` (WireGuard).  
-  [Pull Request #24996](https://github.com/tldr-pages/tldr/pull/24996) & [Pull Request #24997](https://github.com/tldr-pages/tldr/pull/24997): Documentação canônica do sincronizador de nuvem `rclone` e do subsistema de auditoria do kernel Linux `auditctl`.
+  [Pull Request #24993 (Merged)](https://github.com/tldr-pages/tldr/pull/24993) & [Pull Request #24994 (Merged)](https://github.com/tldr-pages/tldr/pull/24994): Documentação canônica em português dos utilitários de VPN `wg` e `wg-quick` (WireGuard).  
+  [Pull Request #24996 (Merged)](https://github.com/tldr-pages/tldr/pull/24996) & [Pull Request #24997 (Merged)](https://github.com/tldr-pages/tldr/pull/24997): Documentação canônica do sincronizador de nuvem `rclone` e do subsistema de auditoria do kernel Linux `auditctl`.
 
 * **[BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** (+8.500 estrelas) & **[Querido Diário / OKFN](https://github.com/okfn-brasil/querido-diario)** (+2.000 estrelas)  
   Melhorias de resiliência em baterias de testes ([PR #938](https://github.com/BrasilAPI/BrasilAPI/pull/938), [PR #939](https://github.com/BrasilAPI/BrasilAPI/pull/939)) e engenharia de spiders de coleta de dados governamentais ([PR #1590](https://github.com/okfn-brasil/querido-diario/pull/1590), [PR #1591](https://github.com/okfn-brasil/querido-diario/pull/1591)).
