@@ -45,7 +45,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementação de algoritmo híbrido pós-quântico (`mlkem768x25519-sha256`) para OpenSSH 9.9+, modernizando a negociação criptográfica KEX (Issue #925).
 
 * **[CrowdSec Hub](https://github.com/crowdsecurity/hub)** — IPS Colaborativo e Inteligência de Ameaças (+10.000 estrelas)  
-  [Pull Request #1951](https://github.com/crowdsecurity/hub/pull/1951): Parser e cenário de detecção de ataques de força bruta no PostgreSQL através do pooler PgBouncer com suporte a autenticação SASL (Issue #1881).  
+  [Pull Request #1951 (Merged)](https://github.com/crowdsecurity/hub/pull/1951): Parser e cenário de detecção de ataques de força bruta no PostgreSQL através do pooler PgBouncer com suporte a autenticação SASL (Issue #1881).  
   [Pull Request #1975](https://github.com/crowdsecurity/hub/pull/1975): Suporte a URLs de backend com esquema `h2c://` (HTTP/2 Cleartext) no parser oficial de logs do Traefik (Issue #1966).
 
 * **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)** — Ferramenta de Informações de Sistema em Alta Performance (+25.200 estrelas)  
@@ -61,7 +61,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   [Pull Request #24928 (Merged)](https://github.com/tldr-pages/tldr/pull/24928): Tradução e localização técnica das rotinas de auditoria do `lynis`.  
   [Pull Request #24929 (Merged)](https://github.com/tldr-pages/tldr/pull/24929): Tradução e padronização dos comandos do `fail2ban-client` (revisado e aprovado com destaque de clareza pelo mantenedor).  
   [Pull Request #24930 (Merged)](https://github.com/tldr-pages/tldr/pull/24930): Tradução e padronização dos parâmetros de auditoria do `nuclei`.  
-  [Pull Request #24941 (Approved - Aguardando 2ª Revisão)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês (aprovado por kbdharun).  
+  [Pull Request #24941 (Merged)](https://github.com/tldr-pages/tldr/pull/24941): Inclusão do comando global de auditoria `fail2ban-client status` e refinamento conceitual na documentação canônica em inglês (incorporado à base oficial).  
   [Pull Request #24993](https://github.com/tldr-pages/tldr/pull/24993) & [Pull Request #24994](https://github.com/tldr-pages/tldr/pull/24994): Documentação canônica em português dos utilitários de VPN `wg` e `wg-quick` (WireGuard).  
   [Pull Request #24996](https://github.com/tldr-pages/tldr/pull/24996) & [Pull Request #24997](https://github.com/tldr-pages/tldr/pull/24997): Documentação canônica do sincronizador de nuvem `rclone` e do subsistema de auditoria do kernel Linux `auditctl`.
 
