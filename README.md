@@ -54,7 +54,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
 #### Segurança Ofensiva & Análise de Superfície de Ataque
 * **[ProjectDiscovery Nuclei-Templates](https://github.com/projectdiscovery/nuclei-templates)** — Engenharia de Detecção de Vulnerabilidades e Ativos (+18.500 estrelas)  
   [Pull Request #17604 (Merged)](https://github.com/projectdiscovery/nuclei-templates/pull/17604): Template oficial de detecção do painel e endpoints do gerenciador de credenciais Infisical via DSL matchers de alta precisão (integrado à base de regras oficial).  
-  [Pull Request #17606](https://github.com/projectdiscovery/nuclei-templates/pull/17606): Template oficial para identificação de painéis PaaS Coolify expostos, integrado com consultas para Shodan e FOFA.
+  [Pull Request #17606 (Merged)](https://github.com/projectdiscovery/nuclei-templates/pull/17606): Template oficial para identificação de painéis PaaS Coolify expostos, integrado com consultas para Shodan e FOFA.
 
 #### Documentação Canônica de Sistemas & Dados Abertos
 * **[tldr-pages](https://github.com/tldr-pages/tldr)** — Documentação Prática de Linha de Comando (+50.000 estrelas)  
@@ -104,7 +104,7 @@ Contribuições técnicas aceitas e em análise nos principais ecossistemas glob
   Monorepo API-first para marketplace de freelancers de eventos com NestJS, Next.js, arquitetura de split financeiro, retenção de plataforma e testes E2E com Playwright.
 
 * **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
-  Caixa de ferramentas modular de administração Linux e DevSecOps: automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB. Selecionado para o Corpus Hub oficial do XERJ (+18k estrelas) como código canônico de referência para agentes de IA.
+  Caixa de ferramentas modular de administração Linux e DevSecOps: auditoria de conformidade e hardening OpenSSH (CIS Benchmarks), automação de backups GFS com integridade SHA-256, HIDS de portas, pacotes e integridade de arquivos (FIM), integração Fail2ban + Cloudflare WAF e sincronização com AbuseIPDB. Selecionado para o Corpus Hub oficial do XERJ (+18k estrelas) como código canônico de referência para agentes de IA.
 
 * **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
   Ferramentas de segurança da informação em Python: reconhecimento assíncrono de superfície de ataque via RDAP/DNS, auditoria defensiva de cabeçalhos HTTP e validação de conformidade.
