@@ -12,7 +12,7 @@
 
 ### Linux Systems Engineer | DevSecOps | Full-Stack & Cloud
 
-B.S. in **Computer Science** and Postgraduate in **Information Security**.
+Bachelor of Science in **Computer Science** and Postgraduate in **Information Security**.
 
 Specialized in architecting resilient enterprise systems, high-availability Linux infrastructure automation, and perimeter defensive security:
 
