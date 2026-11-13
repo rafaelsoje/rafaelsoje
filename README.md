@@ -4,6 +4,7 @@
   <a href="https://rafaelsoje.com"><img src="https://img.shields.io/badge/Portfolio-rafaelsoje.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/rafaelsoje"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Soje-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contato@rafaelsoje.com"><img src="https://img.shields.io/badge/Email-contato@rafaelsoje.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hub.xerj.org/contributors/rafaelsoje"><img src="https://img.shields.io/badge/XERJ_Corpus_Hub-Contributor-7c3aed?style=for-the-badge&logo=rust&logoColor=white" alt="XERJ Corpus Hub Contributor" /></a>
   <img src="https://img.shields.io/badge/Open_Source-Upstream_Contributor-0ea5e9?style=for-the-badge" alt="Upstream Contributor" />
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge" alt="Available" />
 </p>
@@ -23,9 +24,14 @@ Specialized in architecting resilient enterprise systems, high-availability Linu
 
 ---
 
-### Open Source Contributions
+### Open Source Contributions & AI Reference Memory
 
 Upstream technical contributions merged and under review across global security, compliance, and Linux infrastructure ecosystems:
+
+#### AI Coding Agents & Reference Memory
+* **[XERJ Corpus Hub](https://hub.xerj.org/contributors/rafaelsoje)** — Open Reference Memory for Autonomous AI Coding Agents (+19,000 stars)  
+  [Official Contributor Profile](https://hub.xerj.org/contributors/rafaelsoje): Selected as verified reference implementation for autonomous AI programming agents. The [`linux-sysadmin-toolbox`](https://github.com/rafaelsoje/linux-sysadmin-toolbox) repository was audited and indexed as a standard worked example for Shell/Python automation, Nginx CIS hardening, Docker container hygiene, and HIDS intrusion detection.  
+  [![XERJ Corpus Hub Contributor](https://hub.xerj.org/contributors/rafaelsoje/badge.svg)](https://hub.xerj.org/contributors/rafaelsoje)
 
 #### Defensive Security, Hardening & SIEM
 * **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Intrusion Prevention System (IPS) (+4,500 stars)  
