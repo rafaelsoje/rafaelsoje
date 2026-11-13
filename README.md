@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge" alt="Available" />
 </p>
 
+[ English ] • [ [Versão em Português](README.pt-br.md) ]
+
 ---
 
 ### Linux Systems Engineer | DevSecOps | Full-Stack & Cloud
