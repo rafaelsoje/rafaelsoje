@@ -38,6 +38,7 @@ Upstream technical contributions merged and under review across global security,
 #### Defensive Security, Hardening & SIEM
 * **[Fail2ban](https://github.com/fail2ban/fail2ban)** — Intrusion Prevention System (IPS) (+4,500 stars)  
   [Pull Request #4259 (Merged)](https://github.com/fail2ban/fail2ban/pull/4259) & [Pull Request #4262 (Merged)](https://github.com/fail2ban/fail2ban/pull/4262): New official filter and jail for automated brute-force mitigation on the Authelia authentication provider, supporting log files, structured JSON, and `systemd-journal` (resolving historical Issue #4005).  
+  [Pull Request #4281](https://github.com/fail2ban/fail2ban/pull/4281): Official filter and jail for the Immich photo and video management platform, supporting reverse proxy and direct NestJS application logs with full IPv6 and systemd-journal integration (Issue #4029).  
   [Pull Request #4258](https://github.com/fail2ban/fail2ban/pull/4258): Support for systemd journal log ingestion in the `nginx-bad-request` filter (Issue #3732).
 
 * **[SigmaHQ](https://github.com/SigmaHQ/sigma)** — Global Threat Detection Rule Standard (+11,300 stars)  
@@ -46,8 +47,9 @@ Upstream technical contributions merged and under review across global security,
 * **[CISOfy Lynis](https://github.com/CISOfy/lynis)** — Security Auditing & Linux Hardening (+16,500 stars)  
   [Pull Request #1789](https://github.com/CISOfy/lynis/pull/1789): Support for Chrony configuration files in `/usr/etc` and `conf.d` subdirectories, eliminating NTP false positives on modern Linux distributions (Issue #1787).  
   [Pull Request #1805](https://github.com/CISOfy/lynis/pull/1805): Audit logic fix for task schedulers (`SCHD-7704`), ensuring accurate validation of files in `cron.d` and crontab permissions (Issue #1798).  
-  [Pull Request #1806](https://github.com/CISOfy/lynis/pull/1806): OS detection for Ultramarine Linux in core release-detection routines (Issue #1804).  
-  [Pull Request #1807](https://github.com/CISOfy/lynis/pull/1807): Fix in blacklist module test `FILE-6430`, resolving globbing expansion and directory traversal in `/usr/lib/modprobe.d/` (Issue #1794).
+  [Pull Request #1806 (Merged)](https://github.com/CISOfy/lynis/pull/1806): OS detection for Ultramarine Linux in core release-detection routines, publicly credited by lead maintainer Michael Boelen in community Issue #1804.  
+  [Pull Request #1807](https://github.com/CISOfy/lynis/pull/1807): Fix in blacklist module test `FILE-6430`, resolving globbing expansion and directory traversal in `/usr/lib/modprobe.d/` (Issue #1794).  
+  [Pull Request #1822](https://github.com/CISOfy/lynis/pull/1822): Logic fix for Wazuh agent process condition in `LOGG-2154`, ensuring accurate journald and log daemon evaluation (Issue #1801).
 
 * **[Dev-Sec Hardening Collection](https://github.com/dev-sec/ansible-collection-hardening)** — Ansible CIS Benchmarks Automation (+5,500 stars)  
   [Pull Request #999](https://github.com/dev-sec/ansible-collection-hardening/pull/999): Implementation of post-quantum hybrid algorithm (`mlkem768x25519-sha256`) for OpenSSH 9.9+, modernizing KEX cryptographic negotiation (Issue #925).
@@ -107,10 +109,10 @@ Upstream technical contributions merged and under review across global security,
   Public examination prep SaaS platform featuring study planning, practice exams, gazette monitoring, and hybrid AI (OpenAI + local Ollama) built with Next.js 15, PostgreSQL, and Prisma.
 
 * **[linux-sysadmin-toolbox](https://github.com/rafaelsoje/linux-sysadmin-toolbox)**  
-  Modular Linux administration and DevSecOps toolbox: OpenSSH hardening & compliance (CIS Benchmarks), automated GFS backups with SHA-256 integrity, port/package HIDS, File Integrity Monitoring (FIM), Fail2ban + Cloudflare WAF integration, and AbuseIPDB sync. Selected for the official XERJ Corpus Hub (+18k stars) as canonical reference code for AI agents.
+  Modular Linux administration and DevSecOps toolbox: 23-parameter kernel sysctl hardening & compliance (CIS Benchmark / Lynis), OpenSSH hardening, automated GFS backups with SHA-256 integrity, port/package HIDS, File Integrity Monitoring (FIM), Fail2ban + Cloudflare WAF integration, and ShellCheck-verified CI. Selected for the official XERJ Corpus Hub (+19k stars) as canonical reference code for AI agents.
 
 * **[infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)**  
-  Information security and reconnaissance tools built with Python: asynchronous attack surface enumeration via RDAP/DNS, HTTP security headers defensive auditing, and compliance validation.
+  Information security and reconnaissance tools built with Python: DoH-based email spoofing and security auditing (SPF, DMARC, DKIM, RFC 7208 lookup limits), asynchronous attack surface enumeration via RDAP/DNS, HTTP security headers defensive auditing, and compliance validation.
 
 * **[nexus](https://github.com/rafaelsoje/nexus)**  
   API-first event freelancer marketplace monorepo built with NestJS, Next.js, financial split architecture, platform escrow, and E2E testing with Playwright.
